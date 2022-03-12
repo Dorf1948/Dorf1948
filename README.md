@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dorf1948
-- 👀 I’m interested in dsadasd
-- 🌱 I’m currently learning dsadasd
-- 💞️ I’m looking to collaborate on dsadasd
-- 📫 How to reach me dsadasd
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
 
 <!---
 Dorf1948/Dorf1948 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
